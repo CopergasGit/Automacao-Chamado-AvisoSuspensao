@@ -12,7 +12,7 @@
 4) Dbeaver
 
 ## View utilizada
-1) ***ADMIN.VIEW_CHAMADO_SUSPENSAO_AUT WHERE DESCRICAO_CHAMADO LIKE 'Titulo%' ORDER BY DESCRICAO_PNT_CONS ASC***
+1) ***GGAS_ADMIN.VIEW_CHAMADO_SUSPENSAO_AUT***
 
 ## Requisitos
 1) Python instalado versão 3.11
